@@ -1,1 +1,10 @@
-/home/arch/.local/share/applications/ColorPicker.desktop
+[Desktop Entry]
+Name=ColorPicker
+Comment=pick the color of a pixel on screen
+Exec=bash /home/arch/.config/scripts/pick_color.sh
+Icon=preferences-color
+Terminal=false
+Type=Application
+NoDisplay=false
+StartupNotify=true
+Keywords=color; picker;
